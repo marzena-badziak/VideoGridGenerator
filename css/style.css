@@ -1,0 +1,50 @@
+body {
+	background-color: #0a0a0a;
+}
+
+.form-section {
+	position: fixed;
+	top: 0;
+	left: 42vw;
+	z-index: 10;
+
+}
+
+#grid-data {
+	top: 0;
+	/* padding: 5px 0; */
+	width: 290px;
+	margin: 0 auto;
+	background-color: #3f3e3e;
+	border-radius: 0 0 10px 10px;
+	font-size: 12px;
+}
+
+#grid-data label {
+	color: white;
+	margin: 0 10px;
+
+}
+
+#grid-data input {
+	width: 70px;
+}
+
+.grid-section {
+	padding: 60px 0;
+	margin: 0 auto;
+}
+
+#grid-row {
+	margin: 0 auto;
+}
+
+.video-container {
+	padding: 5px 10px;
+	/* background: -webkit-linear-gradient(-45deg, rgba(145,145,145,1) 0%, rgba(26,26,26,1) 100%);	 */
+}
+
+.participant {
+	box-sizing: content-box;
+	border: 1px solid white;
+}
